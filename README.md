@@ -5,3 +5,6 @@ Dart Boolean data type is used to check whether a given statement true or false.
 
 boolean Data Type 1
 ![image](https://user-images.githubusercontent.com/53869097/221795231-74047e80-afd8-4e54-8f3a-998434a8c54f.png)
+
+Example Greater than less than concept in int / boolean:
+![image](https://user-images.githubusercontent.com/53869097/221796863-85ca8d88-ad56-4341-8285-c8199e1c9ab4.png)
