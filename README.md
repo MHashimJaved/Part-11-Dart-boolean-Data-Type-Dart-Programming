@@ -11,3 +11,6 @@ Example Greater than less than concept in int / boolean:
 
 Another example to finds result is true or false:
 ![image](https://user-images.githubusercontent.com/53869097/221806200-c3a0fed1-74a7-4dd3-9bd3-cce95c54c733.png)
+
+Even/ result int and bool declaration, initialization  conditions:
+![image](https://user-images.githubusercontent.com/53869097/221813297-a03e2425-e81a-4bd4-bc3d-3a77c646e7c7.png)
