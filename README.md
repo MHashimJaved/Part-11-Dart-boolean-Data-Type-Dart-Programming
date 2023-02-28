@@ -8,3 +8,6 @@ boolean Data Type 1
 
 Example Greater than less than concept in int / boolean:
 ![image](https://user-images.githubusercontent.com/53869097/221796863-85ca8d88-ad56-4341-8285-c8199e1c9ab4.png)
+
+Another example to finds result is true or false:
+![image](https://user-images.githubusercontent.com/53869097/221806200-c3a0fed1-74a7-4dd3-9bd3-cce95c54c733.png)
